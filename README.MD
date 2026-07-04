@@ -1,0 +1,8 @@
+# NUMPY
+
+# PANDAS
+
+# PYTORCH
+
+
+# TERNSORFLOW
